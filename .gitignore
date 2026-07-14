@@ -1,0 +1,14 @@
+node_modules/
+.expo/
+dist/
+web-build/
+*.log
+.DS_Store
+android/
+ios/
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+credentials.json

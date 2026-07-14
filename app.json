@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Sing Easy",
+    "slug": "sing-easy",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#14121F",
+    "splash": {
+      "backgroundColor": "#14121F"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "package": "com.singeasy.app",
+      "backgroundColor": "#14121F"
+    },
+    "ios": {
+      "bundleIdentifier": "com.singeasy.app"
+    },
+    "plugins": []
+  }
+}
