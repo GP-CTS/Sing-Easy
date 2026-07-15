@@ -9,7 +9,9 @@
     "splash": {
       "backgroundColor": "#14121F"
     },
-    "assetBundlePatterns": ["**/*"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "android": {
       "package": "com.singeasy.app",
       "backgroundColor": "#14121F"
@@ -17,6 +19,12 @@
     "ios": {
       "bundleIdentifier": "com.singeasy.app"
     },
-    "plugins": []
+    "plugins": [],
+    "extra": {
+      "eas": {
+        "projectId": "585dff7d-4014-413a-9fc1-3bb14444980d"
+      }
+    },
+    "owner": "gps343s-team"
   }
 }
